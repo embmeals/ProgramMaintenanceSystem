@@ -1,6 +1,4 @@
-﻿using System;
-using System.Globalization;
-using ProgramMaintenanceSystem;
+﻿namespace ProgramMaintenanceSystem;
 
 class Program
 {
